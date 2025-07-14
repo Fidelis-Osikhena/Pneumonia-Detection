@@ -1,6 +1,6 @@
 # Pneumonia Detection from Chest X-ray Images using Deep Learning
 
-This repository contains the code and data pipeline for a deep learning-based pneumonia detection project. It compares transfer learning and custom CNNs, and evaluates model explainability using Grad-CAM.
+This repository contains the code for a deep learning-based pneumonia detection project. It compares transfer learning and custom CNNs, and evaluates model explainability using Grad-CAM.
 
 ## 🧪 Project Overview
 
